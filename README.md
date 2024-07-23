@@ -1,10 +1,6 @@
 # portfolio-main
 A personal portfolio website
 
-Sure, Ankur! Here’s the README file tailored for your portfolio website link.
-
----
-
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
